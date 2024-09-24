@@ -22,4 +22,4 @@ Este proyecto presenta un análisis exhaustivo de las Enfermedades Diarreicas Ag
 Las contribuciones son bienvenidas. Si deseas colaborar, por favor abre un issue o envía un pull request.
 
 ## Contacto
-Para más información, puedes contactarme en nitram767@gmail.com o a través de mi https://www.linkedin.com/in/martin-izaga-78807056/.
+Para más información, puedes contactarme en nitram767@gmail.com o a través de mi linkedin https://www.linkedin.com/in/martin-izaga-78807056/.
